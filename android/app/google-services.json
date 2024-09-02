@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998045758271",
+    "project_id": "yeyito-app",
+    "storage_bucket": "yeyito-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998045758271:android:56075c6aa988078e9b598a",
+        "android_client_info": {
+          "package_name": "com.yeyito.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVzuSlOwbA-xKI0pFYCOetbmw89zbShU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
